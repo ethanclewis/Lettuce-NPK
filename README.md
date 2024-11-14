@@ -15,14 +15,13 @@ All models trained on Nvidia GeForce GTX 1660 Ti GPU.
 Notebook detailing training loop and model parameters for initial model training attempt, as well as results.  
 Useful for direct comparison to the **Final Model**.  
 Trained on Apple M1 Chip.
+### *mpk_model_v3.pth*
+Saved model.  
+The **Initial Model** was trained on Apple M1 Chip, rather than Nvidia GeForce GTX 1660 Ti GPU, hence the alternative saved model path.
 
 # EDA
 Notebook provides basic visualization of the *Lettuce NPK Dataset* and its class distribution.  
 The *Transformation Playground* details our process of deriving an appropriate image augmentation pipeline.
-
-### *mpk_model_v3.pth*
-Saved model.  
-The **Initial Model** was trained on Apple M1 Chip, rather than Nvidia GeForce GTX 1660 Ti GPU, hence the alternative saved model path.
 
 # Final Model.ipynb
 Notebook detailing training loop and model parameters for final model training attempt, as well as results.  
