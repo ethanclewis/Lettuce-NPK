@@ -13,7 +13,7 @@ All models trained on Nvidia GeForce GTX 1660 Ti GPU.
 # Initial Model
 ### *Initial Model.ipynb*
 Notebook detailing training loop and model parameters for initial model training attempt, as well as results.  
-Useful for direct comparison to the **Final Model**.
+Useful for direct comparison to the **Final Model**.  
 Trained on Apple M1 Chip.
 
 ### *mpk_model_v3.pth*
@@ -22,5 +22,5 @@ The **Initial Model** was trained on Apple M1 Chip, rather than Nvidia GeForce G
 
 # Final Model.ipynb
 Notebook detailing training loop and model parameters for final model training attempt, as well as results.  
-Useful for direct comparison to the **Initial Model**.
+Useful for direct comparison to the **Initial Model**.  
 Trained on Nvidia GeForce GTX 1660 Ti GPU.
