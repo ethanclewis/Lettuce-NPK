@@ -1,14 +1,14 @@
-# Fine-Tuning Iterations
-Indivudal notebooks detailing training loop and model parameters, as well as results, for each progressive, fine-tuning iteration in between the **Initial Model** and the **Final Model**.  
-A summary of all relevant parameters are listed at the top of each notebook.  
-All models trained on Nvidia GeForce GTX 1660 Ti GPU.
-
 # FNNPK
 *Lettuce NPK Dataset* image files.
 - Fully Nutritional **(FN)**: 12 images
 - Nitrogen Deficient **(-N)**: 58 images
 - Phosphorus Deficient **(-P)**: 66 images
 - Potassium Deficient **(-K)**: 72 images
+
+# Fine-Tuning Iterations
+Indivudal notebooks detailing training loop and model parameters, as well as results, for each progressive, fine-tuning iteration in between the **Initial Model** and the **Final Model**.  
+A summary of all relevant parameters are listed at the top of each notebook.  
+All models trained on Nvidia GeForce GTX 1660 Ti GPU.
 
 # Initial Model
 ### *Initial Model.ipynb*
